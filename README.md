@@ -2,5 +2,5 @@
 Basic single cycle RISC-V CPU implementation in Verilog.
 
 
-### ALU_FUN Table:
+### Block diagram:
 ![funtable](rsc/Blockdiagram.jpg)
